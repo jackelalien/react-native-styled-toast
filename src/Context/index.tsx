@@ -11,6 +11,7 @@ type ToastContextType = {
   position?: 'TOP' | 'BOTTOM'
   offset?: number
   maxToasts?: number
+  children: React.ReactNode
 }
 
 export const ToastContext = React.createContext<ToastContextType>({
