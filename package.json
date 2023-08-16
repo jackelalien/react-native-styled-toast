@@ -44,8 +44,8 @@
     "@semantic-release/release-notes-generator": "^9.0.1",
     "@testing-library/react-native": "^4.1.0",
     "@types/jest": "^24.0.20",
-    "@types/react": "^16.9.11",
-    "@types/react-native": "^0.60.22",
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.71.3",
     "@types/react-native-vector-icons": "^6.4.5",
     "@types/styled-system": "^5.1.9",
     "@typescript-eslint/eslint-plugin": "^2.6.0",
@@ -61,11 +61,11 @@
     "np": "^7.3.0",
     "onchange": "^7.1.0",
     "prettier": "^1.18.2",
-    "react-native-vector-icons": "^7.0.0",
+    "react-native-vector-icons": "^9.0.0",
     "react-test-renderer": "18.2.0",
     "semantic-release": "^17.1.1",
     "tsc-watch": "^4.2.9",
-    "typescript": "^3.6.4"
+    "typescript": "^5.13.0"
   },
   "dependencies": {
     "@types/styled-components": "^5.1.1",
