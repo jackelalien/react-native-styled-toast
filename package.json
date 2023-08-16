@@ -62,7 +62,7 @@
     "onchange": "^7.1.0",
     "prettier": "^1.18.2",
     "react-native-vector-icons": "^7.0.0",
-    "react-test-renderer": "16.8.3",
+    "react-test-renderer": "18.2.0",
     "semantic-release": "^17.1.1",
     "tsc-watch": "^4.2.9",
     "typescript": "^3.6.4"
